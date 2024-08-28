@@ -1,0 +1,25 @@
+Problem Statement
+
+Develop a system for a fictional online shopping platform called "ShopWorld". The system should be include the management of product of listings, user accounts and the ordering the process.
+
+Requirements
+
+1 - User management
+    User can create accounts with unique username and password
+    Implement the user authentication and authorization mechanism
+
+2 - Product management
+    Products have different categories like(electronics, clothing, groceries, etc)
+    Implement a system to add new products to the platform
+
+3 - Order Processing
+    Users can add products to their cart and place orders
+    Each order should contains details of the products, quantities and total price.
+
+Creational Design Pattern
+    1 - Standardization of Object Creation
+    2 - Enhanced Flexibility
+    3 - Encapsulation of Object Creation
+    4 - Improve Reusability
+    5 - Scability and Maintainability
+
